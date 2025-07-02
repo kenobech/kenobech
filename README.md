@@ -41,7 +41,7 @@ I'm currently focused on expanding my knowledge in **Data Science**, especially 
 
 Breaks down how **SQL and Excel** complement each other in modern data analysis workflows. Whether you're dealing with millions of rows or building pivot tables, you need both.
 
-🟢 **Topics:** SQL, Excel, Data Workflows, Visualization, Complementary Use
+🟢 **Topics:** SQL, Excel, Data Workflows, Visualization, Complementary Use, Data Analysis
 
 ---
 
@@ -51,6 +51,8 @@ Analyzed 60 years of climate data across 5 U.S. cities and forecasted long-term 
 
 🔧 **Tools:** Python, pandas, seaborn, plotly, Prophet  
 📊 **Visuals:** Heatmaps, anomaly detection, rolling averages, forecasts
+
+🟢 **Topics:** Python, Visualization, Forecasting, Data Analysis
 
 ---
 
